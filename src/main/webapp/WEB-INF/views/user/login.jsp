@@ -11,7 +11,7 @@
 	<form action="">
 		<table>
 			<tr>
-				<th>아이디ㅇㅇㅇㄷ</th>
+				<th>아이디</th>
 				<td>
 					<input type="text" id="user_id" name="user_id">
 				</td>
